@@ -224,4 +224,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ### Authors Contact Info:
 Git: 
 *   [Abraham Elijah](https://github.com/cgrade)
-*   [Freda Joan](https://github.com/fredajoan)
+*   [Freda Okoro](https://github.com/fredajoan)
